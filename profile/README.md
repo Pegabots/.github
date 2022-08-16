@@ -1,6 +1,6 @@
 # Pegabot
 
-A ferramenta Pegabot faz parte de um projeto do Instituto de Tecnologia e Sociedade do Rio de Janeiro ([ITS-Rio](https://itsrio.org/pt/home/)) em parceria com a União Europeia.
+A ferramenta [Pegabot](https://pegabot.com.br/) faz parte de um projeto do Instituto de Tecnologia e Sociedade do Rio de Janeiro ([ITS-Rio](https://itsrio.org/pt/home/)) em parceria com a União Europeia.
 
 O projeto garante que o uso de robôs nas mídias sociais para promover a desinformação seja confrontado com práticas de transparência e media literacy. Por meio do uso de um algoritmo que promove a transparência no comportamento dos robôs nas mídias sociais, o projeto visa fortalecer organizações da sociedade civil (OSCs), organizações de mídia e cidadãos na identificação e contextualização de campanhas de desinformação.
 
